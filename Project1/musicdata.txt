@@ -1,0 +1,7 @@
+1,I Miss You,Adele,25,5.49
+2,Colors,Day6,The Day,4.17
+3,I'm Yours,Alessia Cara,Four Pink Walls,3.49
+4,Um Ah Oh Yeah,Mamamoo,Pink Funky,3.44
+5,Boom Boom,Seventeen,Going Seventeen,3.26
+6,Highlight,Seventeen,Going Seventeen,3.45
+7,Very Nice,Seventeen,Love&Letter,3.12
